@@ -1,0 +1,26 @@
+{
+  "name": "zz-lerna-test-a",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zzz",
+  "homepage": "",
+  "license": "ISC",
+  "main": "es/index.js",
+  "module": "es/index.js",
+  "directories": {
+    "lib": "es",
+    "test": "__tests__"
+  },
+  "files": [
+    "es"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.release.ctripcorp.com/"
+  },
+  "scripts": {
+    "build": "node ../../scripts/build.js"
+  },
+  "dependencies": {
+    "zz-lerna-test-b": "^0.0.0"
+  }
+}
