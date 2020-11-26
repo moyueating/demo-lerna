@@ -1,6 +1,6 @@
 {
   "name": "zz-lerna-test-a",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "zzz",
   "homepage": "",
@@ -21,7 +21,7 @@
     "build": "node ../../scripts/build.js"
   },
   "dependencies": {
-    "zz-lerna-test-b": "^0.0.2"
+    "zz-lerna-test-b": "^0.0.3"
   },
   "gitHead": "ec00fe3b26fcb7dd6a67073da85ffe71b4c3b48c"
 }
