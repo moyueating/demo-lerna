@@ -19,5 +19,6 @@
   },
   "scripts": {
     "build": "node ../../scripts/build.js"
-  }
+  },
+  "gitHead": "7816628bafcff0c481600588cc4aa515b7ce975d"
 }
